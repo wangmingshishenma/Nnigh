@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nnigh</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="isempty">请输入内容！</string>
+	<string name="sava">保存成功！</string>
+	<string name="datale">删除成功！</string>
+	<string name="setting">设置</string>
+
+</resources>
