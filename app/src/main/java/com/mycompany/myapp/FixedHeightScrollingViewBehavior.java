@@ -1,5 +1,4 @@
 package com.mycompany.myapp;
-
 /**
  * Created by maxiee on 15-6-13.
  *
